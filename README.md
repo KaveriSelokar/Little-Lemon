@@ -1,2 +1,2 @@
-# My-work
-This is a site for me to upload my projects.
+# Little Lemon Restaurant
+This is my very first portfolio project.
