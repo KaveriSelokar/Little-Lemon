@@ -105,12 +105,12 @@ nav {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 10%;
     margin: 0  20%;
-    height: 0%;
+    height: 40%;
 }
 
 .slider {
     width: 80%;
-    height: 400px;
+    height: 40%;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
     margin: 20px auto;
 }
