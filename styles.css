@@ -142,9 +142,9 @@ img {
 }
 
 article p {
-    font-size: 30px;
+    font-size: 20%;
     font-weight: bold;
-    border-radius: 10px;
+    border-radius: 5%;
     border:#043927;
     font-family: serif;
 }
