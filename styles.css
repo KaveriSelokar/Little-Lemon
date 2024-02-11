@@ -103,9 +103,9 @@ nav {
 .griddy {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
-    margin: 0 40px;
-    height: 65vh;
+    grid-gap: 5%;
+    margin: 0 10%;
+    height: 50%;
 }
 
 .slider {
