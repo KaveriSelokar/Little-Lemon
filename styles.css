@@ -107,7 +107,7 @@ nav {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 5%;
     margin: 0 10%;
-    height: 40vh;
+    height: 40%;
 }
 
 .slider {
