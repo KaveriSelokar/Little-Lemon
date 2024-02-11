@@ -149,7 +149,7 @@ article p {
     border:#043927;
     font-family: serif;
 }
-
+/*
  .gridn {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -158,15 +158,15 @@ article p {
     height: 10%;
     text-align: center;
     align-items: center;
-} 
+} */
 
 @media screen and (max-width: 768px) {
   .griddy {
     grid-template-columns: 1fr;
   }
 }
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .gridn {
     grid-template-columns: 1fr;
   }
-}
+} */
