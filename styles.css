@@ -9,7 +9,7 @@
     height: 10%;
     width: 30%;
     display: block;
-    max-width: 100%; /*  Added max-width for responsiveness */
+    /*max-width: 100%;  Added max-width for responsiveness */
     margin: auto auto; /* Shorthand for margin-left and margin-right */
 
 }
@@ -143,15 +143,15 @@ article p {
     font-family: serif;
 }
 
-.gridn {
+/* .gridn {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 5px;
-    margin: 0 5%; /* Used percentage for margin */
+    margin: 0 5%; 
     height: 10%;
     text-align: center;
     align-items: center;
-}
+} */
 
 @media screen and (max-width: 768px) {
   .griddy {
