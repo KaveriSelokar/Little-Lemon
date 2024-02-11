@@ -9,8 +9,8 @@
     height: 10%;
     width: 30%;
     display: block;
-    /*max-width: 100%;  Added max-width for responsiveness */
     margin: auto auto; /* Shorthand for margin-left and margin-right */
+    max-width: 100%;
 
 }
 
@@ -94,8 +94,8 @@ nav {
 .eight h1 {
     text-align: center;
     text-transform: capitalize;
-    font-size: 30px;
-    letter-spacing: 1px;
+    font-size: 1.875em;
+    letter-spacing: 0.0625em;
     font-family: serif;
     color: #043927;
 }
