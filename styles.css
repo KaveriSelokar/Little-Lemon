@@ -29,7 +29,7 @@ nav {
     align-items: center;
     color: #fff;
     padding: 2% 5%;
-    border-radius: 5%;
+    border-radius: 2%;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); 
     
 }
@@ -146,7 +146,7 @@ img {
 article p {
     font-size: 1.875em;
     font-weight: bold;
-    border-radius: 10px;
+    border-radius: 0.625em;
     border:#043927;
     font-family: serif;
 }
