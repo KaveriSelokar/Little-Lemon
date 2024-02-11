@@ -9,8 +9,8 @@
     height: 10%;
     width: 30%;
     display: block;
-    max-width: 100%; /* Added max-width for responsiveness */
-    margin: 0 auto; /* Shorthand for margin-left and margin-right */
+    max-width: 100%; /*  Added max-width for responsiveness */
+    margin: auto auto; /* Shorthand for margin-left and margin-right */
 
 }
 
